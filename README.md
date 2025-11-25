@@ -53,7 +53,7 @@ Number-Guessing-Game/
 
 ## 🌐 Live Demo
 
-👉 *(Link)*  
+👉 *([Link](https://number-guessing-game-vap.netlify.app/))*  
 
 ---
 
